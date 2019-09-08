@@ -9,7 +9,7 @@ margin:200px;
 width: 100px;
 height: 100px;
 background-color: red;
-position: relative;
+position: relative; 
 transform: rotateZ(-45deg);
 animation-name: pump;
 animation-iteration-count: infinite;
